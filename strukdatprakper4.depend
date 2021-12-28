@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616894261 source:c:\exercise\c\strukdatprakper4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
